@@ -5,7 +5,7 @@ import com.li.mongodb.dao.BindLogMongoDBUtils;
 /**
  * 测试主类
  * @author ant_li
- *
+ *服务器上修改
  */
 public class TestMain {
 
