@@ -7,7 +7,11 @@ import com.mongodb.MongoClient;
 import com.mongodb.client.MongoDatabase;
 
 
-
+/**
+ * 读取配置文件
+ * @author ant_li
+ *
+ */
 public class Config {
 	
 	
